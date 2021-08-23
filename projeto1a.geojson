@@ -1,0 +1,217 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "projeto_nome": "<a href=http://afloramentos.com/projeto-1\">Projeto 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.71240234375,
+              -9.64407696490791
+            ],
+            [
+              -51.15234375,
+              -9.64407696490791
+            ],
+            [
+              -51.15234375,
+              -8.298470297067356
+            ],
+            [
+              -52.71240234375,
+              -8.298470297067356
+            ],
+            [
+              -52.71240234375,
+              -9.64407696490791
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "projeto_nome": "<a href=http://afloramentos.com/projeto-1\">Projeto 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.91259765625,
+              -18.895892559415024
+            ],
+            [
+              -42.0556640625,
+              -18.895892559415024
+            ],
+            [
+              -42.0556640625,
+              -17.790535393588964
+            ],
+            [
+              -42.91259765625,
+              -17.790535393588964
+            ],
+            [
+              -42.91259765625,
+              -18.895892559415024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "projeto_nome": "<a href=http://afloramentos.com/projeto-1\">Projeto 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4814453125,
+              -19.87005983797395
+            ],
+            [
+              -52.33886718749999,
+              -19.87005983797395
+            ],
+            [
+              -52.33886718749999,
+              -19.020577110966798
+            ],
+            [
+              -53.4814453125,
+              -19.020577110966798
+            ],
+            [
+              -53.4814453125,
+              -19.87005983797395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "nome": "minério"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.83099365234375,
+              -8.754794702435618
+            ],
+            [
+              -50.87493896484375,
+              -8.77651071605234
+            ],
+            [
+              -50.90721130371094,
+              -8.79958258819246
+            ],
+            [
+              -50.92918395996094,
+              -8.851828270690683
+            ],
+            [
+              -50.93055725097656,
+              -8.876930702774121
+            ],
+            [
+              -50.890045166015625,
+              -8.872181725593252
+            ],
+            [
+              -50.84129333496094,
+              -8.82197450061613
+            ],
+            [
+              -50.82275390625,
+              -8.80433250111698
+            ],
+            [
+              -50.81039428710937,
+              -8.778546527230285
+            ],
+            [
+              -50.80558776855469,
+              -8.764295614547615
+            ],
+            [
+              -50.80421447753906,
+              -8.748008188078693
+            ],
+            [
+              -50.83099365234375,
+              -8.754794702435618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nome": "furo 4 - 5 metros de ouro puro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87013244628906,
+          -8.79279689256555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nome": "furo 3 - 1 metro de diamantes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.88798522949219,
+          -8.830795184328931
+        ]
+      }
+    }
+  ]
+}
